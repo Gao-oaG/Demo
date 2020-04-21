@@ -1,0 +1,6 @@
+gradle init
+type java-application
+dsl kotlin
+dest-framework junit-jupiter
+package com.do365.interviwe
+project-name interview
